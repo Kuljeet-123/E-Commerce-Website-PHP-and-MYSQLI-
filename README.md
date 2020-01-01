@@ -1,5 +1,5 @@
 # E-Commerce-Website-PHP-and-MYSQLI
-## ecommerce website with PHP MYSQLI BS AJAX JS
+## Ecommerce website with PHP MYSQLI BS AJAX JS
 
 # sql back up avalible in sql folder 
 
